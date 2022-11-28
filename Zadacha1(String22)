@@ -1,3 +1,5 @@
+//Дана строка, изображающая целое положительное число. Вывести сумму цифр этого числа
+
 #include <iostream>
 #include <string>
 using namespace std;
